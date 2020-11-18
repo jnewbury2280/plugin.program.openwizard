@@ -13,8 +13,8 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 #        User Edit Variables                            #
 #########################################################
-ADDONTITLE = '[COLOR limegreen][B]Open[/B][/COLOR]Wizard'
-BUILDERNAME = 'OpenWizard'
+ADDONTITLE = 'SkyeNet Wizard'
+BUILDERNAME = 'SkyeNet Wizard'
 EXCLUDES = [ADDON_ID, 'repository.openwizard']
 # Text File with build info in it.
 BUILDFILE = 'http://'
